@@ -31,3 +31,4 @@
 ### 测试5.0
     修改 index.html 文件下的  name，repo 参数
     使用WebStorm进行修改，期望能够上传Github
+    测试通过
