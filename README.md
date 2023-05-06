@@ -27,3 +27,7 @@
 ​	同时修改两份README.md文件，期望能够同时修改
 
 ​	测试通过，与预期相符
+
+### 测试5.0
+    修改 index.html 文件下的  name，repo 参数
+    使用WebStorm进行修改，期望能够上传Github
