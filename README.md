@@ -34,3 +34,4 @@
 ### 测试3.2
 
 ​ 不使用 git add 从工作区添加到缓存区，直接commit
+<br><font color=red>测试通过</font>
