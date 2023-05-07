@@ -9,10 +9,12 @@ Describe: 封面页
 =================== -->
 
 
-<p><image src="image/tx.jpg"  width=500 height=300 align="middle" /></p>
+<p><image src="image/tx.jpg" 
+width=500 height=300 
+align="middle" /></p>
 
 
-# docsify <small>3.5</small>
+# Million&Lollipop
 
 > 一个神奇的文档网站生成器。
 
@@ -20,5 +22,13 @@ Describe: 封面页
 - 无需生成 html 文件
 - 众多主题
 
-[GitHub](https://github.com/docsifyjs/docsify/)
-[Get Started](#docsify)
+[GitHub](https://github.com/MillionLollipop)
+[Get Started](README)
+
+<!-- 背景图片 -->
+
+[//]: # (![]&#40;_media/bg.png&#41;)
+
+<!-- 背景色 -->
+
+[//]: # (![color]&#40;#f0f0f0&#41;)
